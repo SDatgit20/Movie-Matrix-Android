@@ -72,5 +72,5 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 For any inquiries, please contact:
 
- - Email: Bhupendra.bp57@gmail.com
- - GitHub: BhupendraPate98
+ - Email: Srashtideshmukh2000@gmail.com
+ - GitHub: SDatgit20
